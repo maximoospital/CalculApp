@@ -1,6 +1,6 @@
-# [![Logo](https://i.imgur.com/WE3xNsL.png)](https://maximoospital.github.io/calculapp/)
+# [![Logo](https://i.imgur.com/WE3xNsL.png)](https://maximoospital.github.io/CalculApp/)
 
-### A simple neumorphic-style calculator. [Visit the app](https://maximoospital.github.io/calculapp/)
+### A simple neumorphic-style calculator. [Visit the app](https://maximoospital.github.io/CalculApp/)
 
 ## Features
 
